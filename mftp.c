@@ -1,17 +1,4 @@
-/*
-Name: Tyler Coy
-Date: 4/28/17
-Class: CS360
-Assignment: Final
 
-Program Description:
-This program is the client 
-part of the mftp final project.
-The client will send and recieve
-commands from the server and
-act accordingly.
-
-*/
 #include "mftp.h"
 
 
