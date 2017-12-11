@@ -1,16 +1,4 @@
-/*
-Name: Tyler Coy
-Date: 4//17
-Class: CS360
-Assignment: Final
 
-
-Program Description:
-This program is designed as a
-server that records who connected
-and acts as a sftp server
-
-*/
 
 
 
